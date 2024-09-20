@@ -1,0 +1,4 @@
+Hello, this is file A.
+We have some unique content here.
+The quick brown fox jumps over the lazy dog.
+This line is only in file A.

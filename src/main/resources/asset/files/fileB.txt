@@ -1,0 +1,3 @@
+Hello, this is file B.
+We have some different content here.
+The quick brown fox jumps over the lazy dog.
